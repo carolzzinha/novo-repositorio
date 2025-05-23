@@ -12,7 +12,7 @@ body {
     border-color: aqua;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: ;
+    flex-basis: calc(33% - 6rem);
 }
 
 
